@@ -1,0 +1,58 @@
+* {
+    font-family: "Bona Nova SC";
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.logo__wrapper {
+position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+ width: 100%;
+}
+
+.color {
+/* position: absolute; */
+transform: rotate(90deg);
+
+    width: 125px;
+    height: 35px;
+    background-color: rgb(140, 121, 247);
+    top: 29px;
+    left: -105px;
+    right: 0;
+
+}
+.word__wrapper {
+    /* position: absolute; */
+    top: -7px;
+    left: -70px;
+    right: 0;
+
+}
+
+.wrapper1 {
+    color: rgb(21, 22, 71);
+}
+
+.wrapper2 {
+    color: #111ff0;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
